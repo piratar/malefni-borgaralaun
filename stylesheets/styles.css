@@ -151,6 +151,13 @@ img {
   border: 1px solid #ccc;
 }
 
+header img {
+    margin: 0 auto;
+    width: 100%;
+    border: 0;
+    padding: 0;
+}
+
 p img {
   display: inline;
   margin: 0;
@@ -215,7 +222,7 @@ td {
 /* Header */
 
 header {
-	background-color: #171717;
+	background-color: #51297E;
 	color: #FDFDFB;
   width:170px;
   float:left;
@@ -318,7 +325,7 @@ a.buttons:hover {
 
 /* Section - for main page content */
 
-section {
+main {
   width:650px;
   float:right;
   padding-bottom:50px;
